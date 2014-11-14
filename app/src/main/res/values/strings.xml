@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StateMachineActivity</string>
+    <string name="hello_world1">Hello world 11111!</string>
+    <string name="hello_world2">Hello world 22222 22222!</string>
+    <string name="hello_world3">Hello world 33333 33333 33333!</string>
+    <string name="hello_world4">Hello world 44444 44444 44444 44444!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+    <string name="title_activity_main_activity4">MainActivity4</string>
+    <string name="KillApp">Kill Thread</string>
+
+</resources>
